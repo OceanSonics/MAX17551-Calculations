@@ -34,4 +34,8 @@ Using VSCode, you can create a virtual environment by:
 
 ## Directions
 
-To be updated once workspace is complete.
+1) Use the `Run All` tool to render all markdown
+2) Change the parameters under the `Parameter Definition` section to match the desired output.
+3) Use the `Run All` tool again to account for the changes.
+4) Review the output of each section for any warnings.
+5) Verify the resulting component selection in the conclusion.
